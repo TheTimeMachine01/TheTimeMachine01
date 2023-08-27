@@ -41,7 +41,7 @@
       </a>
     </td>
     <td style="border: none;" valign="top" width="25%">
-      <a href="https://www.youtube.com/c/wearetheatg" target="blank">
+      <a href="https://www.youtube.com/@WearetheATG" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wearetheatg" height="50" width="70" />
       </a>
     </td>
