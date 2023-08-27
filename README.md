@@ -31,7 +31,7 @@
       </a>
     </td>
     <td style="border: none;" valign="top" width="25%">
-      <a href="https://linkedin.com/in/ashish-verma-6609041a3" target="blank">
+      <a href="https://linkedin.com/in/ash-the-dev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-verma-6609041a3" height="50" width="70" />
       </a>
     </td>
