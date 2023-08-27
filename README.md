@@ -24,23 +24,23 @@
 ## Connect with me:
 
 <div align="center">
-  <table style="border: none;"><tr>
-    <td valign="center" width="25%">
+  <table style="border: none;"><tr style="border: none;">
+    <td style="border: none;" valign="center" width="25%">
       <a href="https://twitter.com/aniltechg2017" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniltechg2017" height="50" width="70" />
       </a>
     </td>
-    <td valign="top" width="25%">
+    <td style="border: none;" valign="top" width="25%">
       <a href="https://linkedin.com/in/ashish-verma-6609041a3" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-verma-6609041a3" height="50" width="70" />
       </a>
     </td>
-    <td valign="top" width="25%">
+    <td style="border: none;" valign="top" width="25%">
       <a href="https://instagram.com/de_vlpr" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de_vlpr" height="50" width="70" />
       </a>
     </td>
-    <td valign="top" width="25%">
+    <td style="border: none;" valign="top" width="25%">
       <a href="https://www.youtube.com/c/wearetheatg" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wearetheatg" height="50" width="70" />
       </a>
@@ -52,8 +52,8 @@
 
 ## My Skill Set
 
-<table><tr>
-  <td valign="top" width="25%">
+<table style="border: none;"><tr style="border: none;">
+  <td style="border: none;" valign="top" width="25%">
     <h3>Frontend</h3>
     <div align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -91,7 +91,7 @@
       </a>
     </div>
   </td>
-  <td valign="top" width="25%">
+  <td style="border: none;" valign="top" width="25%">
     <h3>Backend</h3>
     <div align="center">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -129,7 +129,7 @@
       </a>
     </div>
   </td>
-  <td valign="top" width="25%"> 
+  <td style="border: none;" valign="top" width="25%"> 
     <h3>DevOps</h3>
     <div align="center">
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -155,7 +155,7 @@
       </a>
     </div>
   </td>
-  <td valign="top" width="25%">
+  <td style="border: none;" valign="top" width="25%">
     <h3>Robotics</h3>
     <div align="center">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
