@@ -24,8 +24,8 @@
 ## Connect with me:
 
 <div align="center">
-  <table><tr>
-    <td valign="top" width="25%">
+  <table style="border: none;"><tr>
+    <td valign="center" width="25%">
       <a href="https://twitter.com/aniltechg2017" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniltechg2017" height="50" width="70" />
       </a>
