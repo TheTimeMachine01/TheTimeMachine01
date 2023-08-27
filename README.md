@@ -166,7 +166,10 @@
 
 <br />
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetimemachine01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thetimemachine01" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thetimemachine01&theme=dark" alt="thetimemachine01" /></p>
+## Git-Hub Stats
+<div align="center">
+  
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetimemachine01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thetimemachine01" /></p>
+  <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thetimemachine01&theme=dark" alt="thetimemachine01" /></p>
+  
+</div>
