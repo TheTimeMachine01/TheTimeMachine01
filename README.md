@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React.JS | MERN Stack | LAMP Stack**
 
-- 🏢 Employed at **<a target="_blank" href="https://www.blgindia.com">BLG Technologies</a>** as **Junior Dev ( Full Stack )** <br />&nbsp;&nbsp;Under Project **<a target="_blank" href="https://www.meriindia.in">Meri India</a>**
+- 🏢 Employed at **<a target="_blank" href="https://www.blgindia.com">BLG Technologies</a>** as **Junior Dev ( Full Stack )** <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under Project **<a target="_blank" href="https://www.meriindia.in">Meri India</a>**
 
 - 📫 How to reach me **aniltechg2017@gmail.com**
 
