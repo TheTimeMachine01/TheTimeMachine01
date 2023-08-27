@@ -52,7 +52,7 @@
 
 <table><tr>
   <td valign="top" width="25%">
-    ### Frontend
+    <h3>Frontend</h3>
     <div align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -90,7 +90,7 @@
     </div>
   </td>
   <td valign="top" width="25%">
-    ### Backend
+    <h3>Backend</h3>
     <div align="center">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -127,8 +127,8 @@
       </a>
     </div>
   </td>
-  <td valign="top" width="25%">
-        ### DevOps
+  <td valign="top" width="25%"> 
+    <h3>DevOps</h3>
     <div align="center">
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -154,7 +154,7 @@
     </div>
   </td>
   <td valign="top" width="25%">
-        ### Robotics
+    <h3>Robotics</h3>
     <div align="center">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
