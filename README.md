@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React Js and Native PHP Projects**
 
-- 💬 Ask me about **React.JS|MERN Stack|LAMP Stack**
+- 💬 Ask me about **React.JS | MERN Stack | LAMP Stack**
 
 - 📫 How to reach me **aniltechg2017@gmail.com**
 
