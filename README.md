@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/TheTimeMachine01/TheTimeMachine01/blob/main/GitHub_banner.gif)](https://www.google.com)
+<img align="center" alt="Profile" src="https://github.com/TheTimeMachine01/TheTimeMachine01/blob/main/GitHub_banner.gif">
 <h1 align="center">Hi 👋, I'm Ashish Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coading" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
