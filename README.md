@@ -1,23 +1,23 @@
 <img align="center" alt="Profile" src="https://github.com/TheTimeMachine01/TheTimeMachine01/blob/main/GitHub_banner.gif">
 <h1 align="center">Hi 👋, I'm Ashish Verma</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Java developer & DevOps Engineer from India</h3>
 <img align="right" alt="Coading" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetimemachine01&label=Visitor%20Count&color=e907e1&style=plastic" alt="thetimemachine01" /> </p>
 
-- 🔭 I’m currently working on **HR Management Software**
+- 🔭 I’m currently working on **RTU Clubs: Mobile Application**
 
-- 🌱 I’m currently learning **MERN Stack, React Native, Electron,**
+- 🌱 I’m currently learning **Spring Boot, Spring Security, Java, Jenkins, AWS, Docker**
 
-- 👯 I’m looking to collaborate on **React Js and Native PHP Projects**
+- 👯 I’m looking to collaborate on **Spring Boot Projects**
 
-- 💬 Ask me about **React.JS | MERN Stack | LAMP Stack**
+- 💬 Ask me about **Spring Boot | JAVA Full-Stack | DevOps**
 
-- 🏢 Employed at **<a target="_blank" href="https://www.blgindia.com">BLG Technologies</a>** as **Junior Dev ( Full Stack )** <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under Project **<a target="_blank" href="https://www.meriindia.in">Meri India</a>**
+- 🏢 Pursuing **Bachelors of Technology (B.Tech)** in the Branch of **Information Technology** from **Rajasthan Technical University, Kota (Raj.)**
 
-- 📫 How to reach me **aniltechg2017@gmail.com**
+- 📫 Reach me **aniltechg2017@gmail.com**
 
-- ⚡ Fun fact **I Love Coding In JavaScript**
+- ⚡ Fun fact **I love learning New Technologies Everyday**
 
 <br />
 
